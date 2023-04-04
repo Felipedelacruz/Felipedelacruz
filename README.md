@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe De La Cruz</h1>
 <h3 align="center">An enthusiastic Data Analyst from Colombia</h3>
 
+- 🎓 I’m currently studying **Industrial Engineering** 👷🏽‍♂️
+
+- 🎓 Graduated from **DS4A Colombia Cohort 6** <br> **Data Science for All by Correlation 1** <br>
+<img src = "https://www.unicauca.edu.co/versionP/sites/default/files/images/DS4.jpg" alt="DS4A" height="150" align= "center">
+
 - 🔭 I’m currently working on **DataLeik**
 
 - 🌱 I’m currently learning **Machine learning algorithms and implementations**
