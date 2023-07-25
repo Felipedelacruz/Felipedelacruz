@@ -18,8 +18,6 @@
 <a href="https://www.hackerrank.com/f_delacruz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f_delacruz10" height="30" width="40" /></a>
 </p>
 
-![Badge](https://www.hackerrank.com/F_delacruz10?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share_profile&social=linkedin)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://cran.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </a> 
