@@ -1,34 +1,69 @@
-<h1 align="center">Hi, I'm Felipe De La Cruz</h1>
-<h3 align="center">An enthusiastic Data Scientist from Colombia </h3>
+<h2> Hi, I'm Felipe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.licdn.com/dms/image/v2/D4E03AQGO8V8__ccMLg/profile-displayphoto-shrink_400_400/B4EZUF4DNgHMAg-/0/1739560334641?e=1749081600&v=beta&t=uGbNWOWBvww3yX7jy99M8QB5FZum_u_DmkLaibIGqr4" width="230">
 
-- 🎓 I’m currently studying **Industrial Engineering** 👷🏽‍♂️ at Universidad del Norte
+<p><em>I'm a Colombian Machine Learning & AI Engineer passionate about data, automation, and building intelligent systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
-- 🎓 Graduated from **DS4A Colombia Cohort 6** <br> **Data Science for All by Correlation 1** <br>
-<img src = "https://www.unicauca.edu.co/versionP/sites/default/files/images/DS4.jpg" alt="DS4A" height="150" align= "center">
+[![Linkedin: fdelacruzm](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fdelacruzm/)](https://www.linkedin.com/in/fdelacruzm/)
+[![GitHub felipedelacruz](https://img.shields.io/github/followers/felipedelacruz?label=follow&style=social)](https://github.com/felipedelacruz)
 
-- 💼 I’m currently working on **DataLeik**
+---
 
-- 🌱 I’m currently learning **Machine learning algorithms and implementations** 🤖
+### <tt>🧠 Active Skills</tt>
 
-- ⚡ Fun fact **You were born too late. You will never explore Earth. You were also born too early. You will never explore the stars.**
+<section>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  </div>
+</section>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fdelacruzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fdelacruzm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/f_delacruz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f_delacruz10" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://cran.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-</p>
+### <tt>🌐 Languages</tt>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipedelacruz&show_icons=true&locale=en&layout=compact" alt="felipedelacruz" /></p>
+- 🇨🇴 **Spanish**: Native  
+- 🇺🇸 **English**: Full professional proficiency (B2)  
+- 🇧🇷 **Portuguese**: Full professional proficiency  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipedelacruz&show_icons=true&locale=en" alt="felipedelacruz" /></p>
+---
+
+### <tt>🛠️ Technical Stack Summary</tt>
+
+- **Programming Languages**: R, Python, SQL  
+- **Technologies**: Docker, AWS, Google Cloud Platform, Azure, LangChain, Digital Ocean  
+- **Data & ML**: LLMs, Prompt Engineering, R Shiny, BigQuery, Data Analytics, AI, ML  
+- **Tools**: Git, Quarto, LangChain, OSRM, Leaflet
+
+---
+
+### <tt>💼 Work Experience</tt>
+
+- **Lead ML & AI Engineer** @ *Committed Staff* (Remote, USA) | Feb 2025 – Present  
+- **Machine Learning Engineer** @ *Repair Ventures LLC* (Remote, USA) | Aug 2024 – Feb 2025  
+- **Data Scientist** @ *DataLeik* (Remote, Colombia) | Jun 2023 – Aug 2024  
+- **Data Analyst** @ *DataLeik* (Remote, Colombia) | Sep 2022 – Jun 2023  
+
+---
+
+### <tt>📚 Education & Certifications</tt>
+
+🎓 *Industrial Engineer*, Universidad del Norte (2018–2023)  
+🎓 *DS4A / Colombia 6.0*, Correlation One (Graduated with Honors)  
+📜 **Certifications**:
+- ChatGPT Prompt Engineering for Developers (DeepLearning.AI)  
+- LangChain for LLM Application Development (DeepLearning.AI)  
+- SQL for Data Science (Coursera)  
+- Pirple Frontend Fundamentals  
+- English B2 – Academic Language Solutions (iTEP)
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi</b>, I’ll be happy to meet you! :)</em>
