@@ -22,10 +22,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-    <img src="assets/n8n-color.svg" title="n8n" alt="n8n" width="40" height="40"/>
-    <img src="assets/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40"/>
-    <img src="assets/langchain-color.svg" title="LangChain" alt="LangChain" width="40" height="40"/>
-    <img src="assets/ngrok.svg" title="Ngrok" alt="Ngrok" width="40" height="40"/>
+    <img src="Assets/n8n-color.svg" title="n8n" alt="n8n" width="40" height="40"/>
+    <img src="Assets/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40"/>
+    <img src="Assets/langchain-color.svg" title="LangChain" alt="LangChain" width="40" height="40"/>
+    <img src="Assets/ngrok.svg" title="Ngrok" alt="Ngrok" width="40" height="40"/>
   </div>
 </section>
 
