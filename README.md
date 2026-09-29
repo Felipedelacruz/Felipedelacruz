@@ -15,25 +15,31 @@ Industrial engineer who grew from data analyst to data scientist to ML engineer.
 
 <section>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" title="n8n" alt="n8n" width="40" height="40"/>
+    <!-- Languages & data -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+    <!-- AI / LLMs -->
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" title="LangChain" alt="LangChain" width="40" height="40"/>
+    <img src="https://strandsagents.com/latest/assets/logo-github.svg" title="Strands Agents" alt="Strands Agents" height="40"/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png">
       <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/ollama.png" title="Ollama" alt="Ollama" width="40" height="40"/>
     </picture>
-    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" title="LangChain" alt="LangChain" width="40" height="40"/>
-    <img src="https://strandsagents.com/latest/assets/logo-github.svg" title="Strands Agents" alt="Strands Agents" height="40"/>
-    <img src="Assets/ngrok.svg" title="Ngrok" alt="Ngrok" width="40" height="40"/>
-  </div>
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" title="n8n" alt="n8n" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/mlflow/mlflow@master/assets/icon.svg" title="MLflow" alt="MLflow" width="40" height="40"/>
+    <!-- Cloud -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/aws-color.png">
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/aws-color.png" title="AWS" alt="AWS" width="40" height="40"/>
+    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
+    <!-- DevOps -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>  </div>
 </section>
 
 ---
