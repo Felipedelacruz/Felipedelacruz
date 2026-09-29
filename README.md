@@ -25,9 +25,13 @@ Industrial engineer who grew from data analyst to data scientist to ML engineer.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-    <img src="Assets/n8n-color.svg" title="n8n" alt="n8n" width="40" height="40"/>
-    <img src="Assets/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40"/>
-    <img src="Assets/langchain-color.svg" title="LangChain" alt="LangChain" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" title="n8n" alt="n8n" width="40" height="40"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png">
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/ollama.png" title="Ollama" alt="Ollama" width="40" height="40"/>
+    </picture>
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" title="LangChain" alt="LangChain" width="40" height="40"/>
+    <img src="https://strandsagents.com/latest/assets/logo-github.svg" title="Strands Agents" alt="Strands Agents" height="40"/>
     <img src="Assets/ngrok.svg" title="Ngrok" alt="Ngrok" width="40" height="40"/>
   </div>
 </section>
